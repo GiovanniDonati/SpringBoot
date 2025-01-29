@@ -1,4 +1,4 @@
-package com.APISpringBoot.first_spring_app.controller.service;
+package com.APISpringBoot.first_spring_app.service;
 
 import org.springframework.stereotype.Service;
 
